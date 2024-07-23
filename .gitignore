@@ -2,3 +2,5 @@
 .idea/
 .bin
 .sqlite3
+*/*.bin
+*/*.sqlite3
