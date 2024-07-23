@@ -1,0 +1,1 @@
+folder where chromadb database for vector search is created

@@ -1,0 +1,2 @@
+Generate a short funny poem. Be creative and be funny. it should always end with 'I am computer'
+Event:{{$topic}}
